@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/ahaber_250x150.png" group-title="HABER ana kaynak",A HABER
 https://www.youtube.com/embed/_gobxe8ghK8
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Habertürk TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689467001/ei/GeSyZNvXNb23sfIPkaaGkA8/ip/13.88.116.160/id/SqHIO2zhxbA.75/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqzAyxuNbbb5fQmA-GVeN2rYgyereg3bRXWNJ_A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYRuOIvOXc16WawJJ51zIjUqeBKUX9jj7RelKiCqoc2ACIDoFFe6gTrivFLK_3Xo4sWLrE6RXCtb5A8EsPBJ0xmqL/file/index.m3u8
+
