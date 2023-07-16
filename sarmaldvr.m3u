@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: TRT 1[DVR]
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: TRT 2[DVR]
+https://mn-nl.mncdn.com/blutv_trt2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: SHOW TV[DVR]
+https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: FOX TV[DVR]
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: BEYAZ TV[DVR]
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: DMAX[DVR]
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV100[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: TV100[DVR]
+https://mn-nl.mncdn.com/blutv_tv1002_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: TLC[DVR]
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL[DVR]",TR: KANAL 7[DVR]
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: SOZCU TV[DVR]
 https://mn-nl.mncdn.com/blutv_szctv_dvr/live.m3u8
 
@@ -33,17 +60,20 @@ https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: TGRT HABER[DVR]
 https://mn-nl.mncdn.com/blutv_tgrthaber2_dvr/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR SARMAL[DVR]",TR: TRT SPOR[DVR]
+https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR SARMAL[DVR]",TR: TRT SPOR YILDIZ[DVR]
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR SARMAL[DVR]",TR: TRT COCUK[DVR]
+https://mn-nl.mncdn.com/blutv_trtcocuk_2/smil:trtcocuk.smil/playlist.m3u8?DVR
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 BELGESEL SARMAL[DVR]",TR: TRT BELGESEL[DVR]
 https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 [DVR]",TR: DMAX[DVR]
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 1[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SINEMA SARMAL[DVR]",TR: BLU TV PLAY 1[DVR]
+https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR[DVR]",TR: TRT SPOR[DVR]
-https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV100[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 [DVR]",TR: TV100[DVR]
-https://mn-nl.mncdn.com/blutv_tv1002_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 [DVR]",TR: TLC[DVR]
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SINEMA SARMAL[DVR]",TR: BLU TV PLAY 2[DVR]
+https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
