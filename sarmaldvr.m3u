@@ -78,8 +78,5 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SINEMA SARMAL[DVR]",TR: BLU TV PLAY 2[DVR]
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 
-#EXTINF:-1 group-title="GRATIS",Eleven Sport 1
-https://kusnadipepenk.github.io/ntn/elesp1.m3u8
-
 #EXTINF:-1 group-title="GRATIS",trt REDO1
 https://raw.githubusercontent.com/superdizayn/rd/main/trt1red.m3u8
