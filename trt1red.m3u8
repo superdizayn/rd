@@ -1,4 +1,16 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497613.ts
+
+
+#EXTINF:-1 group-title="VOD",The Outfit [PRE] [2022]
+http://tvt3.xyz:2095/play/movie.php?mac=00:1A:79:00:04:02&stream=364865.mkv&type=movie&play_token=
+#EXTINF:-1 group-title="VOD",Insidious: Chapter 3 [PRE] [2015]
+http://tvt3.xyz:2095/play/movie.php?mac=00:1A:79:00:04:02&stream=117349.mkv&type=movie&play_token=
+#EXTINF:-1 group-title="VOD",Insidious: Chapter 2 [PRE] [2013]
+http://tvt3.xyz:2095/play/movie.php?mac=00:1A:79:00:04:02&stream=117348.mkv&type=movie&play_token=
+
+#EXTINF:-1 group-title="VOD",Trt RAWm3u8 [2022]
 http://man02.xyz:8080/live/davutmusti/555554444/23039.m3u8
+#EXTINF:-1 group-title="VOD",Trt RAWts[2022]
+http://man02.xyz:8080/live/davutmusti/555554444/23039.ts
