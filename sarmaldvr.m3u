@@ -81,5 +81,8 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT1 RED" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 TEST",TR: TRT1 RED
 https://github.com/superdizayn/rd/blob/main/trt1red.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT1 RED" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 TEST",TR: TRT1 RED RAW
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT1 RED RAW" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 TEST",TR: TRT1 RED RAW
 https://github.com/superdizayn/rd/raw/main/trt1red.m3u8
+
+#EXTINF:-1 group-title="GRATIS",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
