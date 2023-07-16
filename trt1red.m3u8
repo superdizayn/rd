@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #EXTINF:-1 group-title="VOD",Trt RAWts[2022]
-http://extr2021.com/live/szr1365/szr.804/123947.m3u8
+http://extr2021.com/live/szr1365/szr.804/123947.ts
