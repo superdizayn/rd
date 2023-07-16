@@ -79,7 +79,7 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 
 #EXTINF:-1 group-title="GRATIS",trt Radaw
-https://raw.githubusercontent.com/superdizayn/rd/main/trt1red.m3u8
+#https://raw.githubusercontent.com/superdizayn/rd/main/trt1red.m3u8
 
 #EXTINF:-1 group-title="GRATIS",trt BlobRaw
 #https://github.com/superdizayn/rd/raw/main/trt1red.m3u8
