@@ -78,10 +78,11 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SINEMA SARMAL[DVR]",TR: BLU TV PLAY 2[DVR]
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: include" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 inc",TR: include
+https://github.com/superdizayn/rd/raw/main/trt1red.m3u8
 
-#EXTINF:-1 group-title="VOD",The Outfit [PRE] [2022]
+#EXTINF:-1 group-title="VOD",Eroden [PRE] [2022]
 http://extr2021.com/live/szr1365/szr.804/123947.ts
 
-#EXTINF:-1 group-title="GRATIS",trt BlobRaw
-https://github.com/superdizayn/rd/raw/main/trt1red.m3u8
+
 
