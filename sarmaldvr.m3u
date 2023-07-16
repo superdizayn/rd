@@ -21,7 +21,7 @@ https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: HABER GLOBAL[DVR]
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: BLOOMBERG HT2[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: BLOOMBERG HT2[DVR]
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: 360 TV[DVR]
@@ -29,3 +29,21 @@ https://mn-nl.mncdn.com/blutv_360tv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: TRT HABER[DVR]
 https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: TGRT HABER[DVR]
+https://mn-nl.mncdn.com/blutv_tgrthaber2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 BELGESEL SARMAL[DVR]",TR: TRT BELGESEL[DVR]
+https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 [DVR]",TR: DMAX[DVR]
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR[DVR]",TR: TRT SPOR[DVR]
+https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV100[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 [DVR]",TR: TV100[DVR]
+https://mn-nl.mncdn.com/blutv_tv1002_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 [DVR]",TR: TLC[DVR]
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
