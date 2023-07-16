@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://man02.xyz:8080/live/davutmusti/555554444/23039.ts
+http://man02.xyz:8080/live/davutmusti/555554444/23039.m3u8
