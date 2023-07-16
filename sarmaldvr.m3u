@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: TELE 1[DVR]
-https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: SOZCU TV[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: SOZCU TV[DVR]
 https://mn-nl.mncdn.com/blutv_szctv_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: HALK TV[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: HALK TV[DVR]
 https://mn-nl.mncdn.com/blutv_halktv2_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRT[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: KRT[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: TELE 1[DVR]
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: KRT[DVR]
 https://mn-nl.mncdn.com/blutv_krt_live_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: NTV[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: NTV[DVR]
 https://ntvdvr.blutv.com/blutv_ntv_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: HABER TURK[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: HABER TURK[DVR]
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: HABER GLOBAL[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: HABER GLOBAL[DVR]
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: BLOOMBERG HT2[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: BLOOMBERG HT2[DVR]
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: 360 TV[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: 360 TV[DVR]
 https://mn-nl.mncdn.com/blutv_360tv_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER ana kaynak",TR: TRT HABER[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SARMAL[DVR] HABER",TR: TRT HABER[DVR]
 https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
