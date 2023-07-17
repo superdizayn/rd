@@ -57,11 +57,17 @@ https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: 360 TV[DVR]
 https://mn-nl.mncdn.com/blutv_360tv_dvr/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV YEDEK[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: 360 TV YEDEK[DVR]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: TRT HABER[DVR]
 https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: TGRT HABER[DVR]
 https://mn-nl.mncdn.com/blutv_tgrthaber2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV24[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 HABER SARMAL[DVR]",TR: TV24[DVR]
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR SARMAL[DVR]",TR: TRT SPOR[DVR]
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
@@ -69,7 +75,7 @@ https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR SARMAL[DVR]",TR: TRT SPOR YILDIZ[DVR]
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SPOR SARMAL[DVR]",TR: TRT COCUK[DVR]
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 COCUK SARMAL[DVR]",TR: TRT COCUK[DVR]
 https://mn-nl.mncdn.com/blutv_trtcocuk_2/smil:trtcocuk.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 BELGESEL SARMAL[DVR]",TR: TRT BELGESEL[DVR]
@@ -81,7 +87,5 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: BLUTV PLAY 2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 SINEMA SARMAL[DVR]",TR: BLU TV PLAY 2[DVR]
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/24tv.png?v=1114" group-title="HABER ana kaynak",TV 24 -DVR
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROS" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 EUROS",EUROS TV
+https://github.com/superdizayn/rd/blob/main/euros.m3u8
