@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=2000000
-http://man02.xyz:8080/live/davutmusti/555554444/23039.ts
+http://man02.xyz:8080/live/davutmusti/555554444/23039.m3u8
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=880317&extension=m3u8&play_token=xdbt7BgLik
 #http://extr2021.com/live/szr1365/szr.804/123947.ts
