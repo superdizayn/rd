@@ -89,24 +89,17 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EUROS" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 EUROS",EUROS TV
 https://github.com/superdizayn/rd/raw/main/euros.m3u8
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="B-Sport  1/4K" tvg-logo="https://logo.gulatv.xyz/Logo/TR/BEIN.SPORTS/BEIN.SPORTS.1.4K.png" group-title="🇹🇷 TURK SPOR HD",B-Sport  1/4K
-http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlaxWIzM6TdzNpRlqbXdVmkA/ts
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="B-Sport  1 FHD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/bensports/BEIN.SPORTS.1.FHD.png" group-title="🇹🇷 TURK SPOR HD",B-Sport  1 FHD
-http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlUZvwDFk25IEKR-EKZn4KGI/ts
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="B-Sport  1 Hd" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/bensports/BEIN.SPORTS.1.FHD.png" group-title="🇹🇷 TURK SPOR HD",B-Sport  1 Hd
-http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlTBIHHaaZkPmyf3cMy6i3XU/ts
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="B-Sport  1 hd" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/bensports/BEIN.SPORTS.1.FHD.png" group-title="🇹🇷 TURK SPOR HD",B-Sport  1 hd
-http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlXPE6sI_pllEfrndwZERf_c/ts
-#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="ViP SPOR 1 Yedek/Mac Saati" tvg-logo="http://webhivod.cf:8080/logos/bein1yedek.png" group-title="🇹🇷 TURK SPOR HD",ViP SPOR 1 Yedek/Mac Saati
-http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlSadvuG6wRHA_i8X35Nx12Y/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATAKx" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 Atak",ATAK TV
+https://github.com/superdizayn/rd/raw/main/titanatak.m3u8
+
+
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="ViP SPOR 2 Yedek/Mac Saati" tvg-logo="http://webhivod.cf:8080/logos/bein1yedek.png" group-title="🇹🇷 TURK SPOR HD",ViP SPOR 2 Yedek/Mac Saati
 http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAld3CZhL2raI7DSUucetad9w/ts
 #EXTINF:-1 tvg-id="360.tr" tvg-name="ViP SPOR 3 Yedek/Mac Saati" tvg-logo="http://webhivod.cf:8080/logos/bein1yedek.png" group-title="🇹🇷 TURK SPOR HD",ViP SPOR 3 Yedek/Mac Saati
 http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlQ-cFyWB8ZqvN7rHYwae91E/ts
 #EXTINF:-1 tvg-id="360.tr" tvg-name="ViP SPOR 4 Yedek/Mac Saati" tvg-logo="http://webhivod.cf:8080/logos/bein1yedek.png" group-title="🇹🇷 TURK SPOR HD",ViP SPOR 4 Yedek/Mac Saati
 http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlXCe898YGidMllDA0zIyDR4/ts
-#EXTINF:-1 tvg-id="" tvg-name="SAHADAN CANLI SKOR" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/iptv365netlogo.png" group-title="🇹🇷 TURK SPOR HD",SAHADAN CANLI SKOR
-http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlcyMcjWK8adgN-vEK9_hk0g/ts
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="B-Sport  1 HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/bensports/BEIN.SPORTS.1.FHD.png" group-title="🇹🇷 TURK SPOR HD",B-Sport  1 HD
 http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAlclNk17iSRmR3VLqBH-86TE/ts
 #EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="B-Sport  2 FHD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/bensports/BEIN.SPORTS.2.PREMUM.png" group-title="🇹🇷 TURK SPOR HD",B-Sport  2 FHD
