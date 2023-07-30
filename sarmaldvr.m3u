@@ -90,3 +90,5 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EUROS" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 EUROS",EUROS TV
 https://github.com/superdizayn/rd/raw/main/euros.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOM" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 BOOM",BOOM
+https://github.com/superdizayn/rd/raw/main/boombom.m3u8
