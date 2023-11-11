@@ -154,16 +154,12 @@ http://play.ssiptvglobal.xyz:8080/live/extreme/spor2023/192089.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 A" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="🇹🇷 SPOR ZAMANI",|TR| beIN Sports 1 A
 https://cakal.click/yayin1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 Aproxy" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="🇹🇷 SPOR ZAMANI",|TR| beIN Sports 1 A Proxy
-https://proxy.linkeddatafragments.org/https://cakal.click/yayin1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 A" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="🇹🇷 SPOR ZAMANI",|TR| beIN Sports 2 A
-https://cakal.click/yayin2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 Aproxy" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="🇹🇷 SPOR ZAMANI",|TR| beIN Sports 2 A Proxy
-https://proxy.linkeddatafragments.org/https://cakal.click/yayin2.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 B" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="🇹🇷 SPOR ZAMANI",|TR| beIN Sports 1 B
 https://cakal.click/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 Aproxy" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="🇹🇷 SPOR ZAMANI",|TR| beIN Sports 1 A Proxy
+https://proxy.linkeddatafragments.org/https://cakal.click/yayin1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 Bproxy" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="🇹🇷 SPOR ZAMANI",|TR| beIN Sports 1 B Proxy
 https://proxy.linkeddatafragments.org/https://cakal.click/yayinzirve.m3u8
 
