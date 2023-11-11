@@ -167,3 +167,7 @@ https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS HABER Extra" tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sp_haber.png" group-title="🇹🇷 SPOR ZAMANI",|TR| BEIN SPORTS HABER EXTRA
 https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TJK TV HDx" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tjk_tv.png" group-title="🇹🇷 SPOR ZAMANI",|TR| TJK TV HDx
+http://tjktv.ercdn.net/tjktv.m3u8
+
