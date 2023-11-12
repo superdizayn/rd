@@ -35,6 +35,15 @@ http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6098
 #EXTINF:-1,|TR| beIN Sports 4 UHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/195813
 
+#EXTINF:-1,TR: beIN Sports 1
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1735.m3u8
+#EXTINF:-1,TR: beIN Sports 2
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1737.m3u8
+#EXTINF:-1,TR: beIN Sports 3
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1739.m3u8
+#EXTINF:-1,TR: beIN Sports 4
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/7450.m3u8
+
 #-----EXXEN-----
 
 #EXTINF:-1,|TR| Exxen Spor 1 HD
@@ -88,9 +97,32 @@ http://play.ssiptvglobal.xyz:8080/extreme/spor2023/113254
 #EXTINF:-1,|TR| Tivibu Spor 4 FHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/115600
 
+#EXTINF:-1,TR: Tivibu Spor
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1746.m3u8
+#EXTINF:-1,TR: Tivibu Spor 1
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/299705.m3u8
+#EXTINF:-1,TR: Tivibu Spor 2
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1748.m3u8
+#EXTINF:-1,TR: Tivibu Spor 3
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1749.m3u8
+#EXTINF:-1,TR: Tivibu Spor 4
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/286778.m3u8
+
+
 #-----EXTRA-----
 
 #EXTINF:-1,|TR| TJK TV HDx
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1,|TR| TJK TV HDxx
 http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1,TR: TJK TV
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/594.m3u8
+
+#EXTINF:-1,TR: EUROSPORT 1
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1755.m3u8
+#EXTINF:-1,TR: EUROSPORT 2
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/1756.m3u8
+
+#EXTINF:-1,TR: Exxen TV
+http://37.49.229.56:8080/live/Fullitalia/Hnd64Cs5A84dLkd8/300384.m3u8
+
