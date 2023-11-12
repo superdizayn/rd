@@ -1,60 +1,96 @@
 #EXTM3U
 
-#EXTINF: 0,|TR| beIN Sports 1 SD [360p]
+#EXTINF:-1, -----beIN-----
+
+#EXTINF:-1,|TR| beIN Sports 1 SD [360p]
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/191154
-#EXTINF: 0,|TR| beIN Sports 1 SD [480p]
+#EXTINF:-1,|TR| beIN Sports 1 SD [480p]
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/35762
-#EXTINF: 0,|TR| beIN Sports 1 HD Türkiye
+#EXTINF:-1,|TR| beIN Sports 1 HD Türkiye
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/98925
-#EXTINF: 0,|TR| beIN Sports 1 FHD
+#EXTINF:-1,|TR| beIN Sports 1 FHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/126272
-#EXTINF: 0,|TR| beIN Sports 1 VIP H265
+#EXTINF:-1,|TR| beIN Sports 1 VIP H265
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/190072
-#EXTINF: 0,|TR| beIN Sports 1 4K [Feed]
+#EXTINF:-1,|TR| beIN Sports 1 4K [Feed]
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/35650
-#EXTINF: 0,|TR| beIN Sports 1 8K [Feed]
+#EXTINF:-1,|TR| beIN Sports 1 8K [Feed]
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/191152
-#EXTINF: 0,|TR| beIN Sports 2 SD
+#EXTINF:-1,|TR| beIN Sports 2 SD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/196216
-#EXTINF: 0,|TR| beIN Sports 2 HD
+#EXTINF:-1,|TR| beIN Sports 2 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/35730
-#EXTINF: 0,|TR| beIN Sports 2 UHD
+#EXTINF:-1,|TR| beIN Sports 2 UHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/195811
-#EXTINF: 0,|TR| beIN Sports 3 SD
+#EXTINF:-1,|TR| beIN Sports 3 SD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/196217
-#EXTINF: 0,|TR| beIN Sports 3 HD
+#EXTINF:-1,|TR| beIN Sports 3 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6097
-#EXTINF: 0,|TR| beIN Sports 3 UHD
+#EXTINF:-1,|TR| beIN Sports 3 UHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/195812
-#EXTINF: 0,|TR| beIN Sports 4 SD
+#EXTINF:-1,|TR| beIN Sports 4 SD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/196218
-#EXTINF: 0,|TR| beIN Sports 4 HD
+#EXTINF:-1,|TR| beIN Sports 4 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6098
-#EXTINF: 0,|TR| beIN Sports 4 UHD
+#EXTINF:-1,|TR| beIN Sports 4 UHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/195813
 
-#EXTINF: 0,|TR| Exxen Spor 1 HD
+#EXTINF:-1, -----EXXEN-----
+
+#EXTINF:-1,|TR| Exxen Spor 1 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/167579
-#EXTINF: 0,|TR| Exxen Spor 1 UHD
+#EXTINF:-1,|TR| Exxen Spor 1 UHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/190754
-#EXTINF: 0,|TR| Exxen Spor 1 FEED
+#EXTINF:-1,|TR| Exxen Spor 1 FEED
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/194949
-#EXTINF: 0,|TR| Exxen Spor 2 HD
+#EXTINF:-1,|TR| Exxen Spor 2 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/98878
-#EXTINF: 0,|TR| Exxen Spor 3 HD
+#EXTINF:-1,|TR| Exxen Spor 3 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/98926
-#EXTINF: 0,|TR| Exxen Spor 4 HD
+#EXTINF:-1,|TR| Exxen Spor 4 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/101132
-#EXTINF: 0,|TR| Exxen Spor 5 HD
+#EXTINF:-1,|TR| Exxen Spor 5 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/101133
-#EXTINF: 0,|TR| Exxen Spor 6 HD
+#EXTINF:-1,|TR| Exxen Spor 6 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/101134
-#EXTINF: 0,|TR| Exxen Spor 7 HD
+#EXTINF:-1,|TR| Exxen Spor 7 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/101135
-#EXTINF: 0,|TR| Exxen Spor 8 HD
+#EXTINF:-1,|TR| Exxen Spor 8 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/101137
 
-#EXTINF: 0,|TR| TJK TV HDx
+#EXTINF:-1, -----SSPORT-----
+
+#EXTINF:-1,|TR| S Sport 1 HD
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/115598
+#EXTINF:-1,|TR| S Sport 2 HD
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6105
+#EXTINF:-1,|TR| S Sport+1 Mac Saati
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/137713
+#EXTINF:-1,|TR| S Sport+2 Mac Saati
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/137714
+#EXTINF:-1,|TR| S Sport+3 Mac Saati
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/137715
+#EXTINF:-1,|TR| S Sport+4 Mac Saati
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/137716
+#EXTINF:-1,|TR| S Sport+5 Mac Saati
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/137717
+
+#EXTINF:-1, -----TIVIBU-----
+
+#EXTINF:-1,|TR| Tivibu Spor FHD
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6101
+#EXTINF:-1,|TR| Tivibu Spor 1 FHD
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6102
+#EXTINF:-1,|TR| Tivibu Spor 2 FHD
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6103
+#EXTINF:-1,|TR| Tivibu Spor 3 FHD
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/113254
+#EXTINF:-1,|TR| Tivibu Spor 4 FHD
+http://play.ssiptvglobal.xyz:8080/extreme/spor2023/115600
+
+#EXTINF:-1, -----EXTRA-----
+
+#EXTINF:-1,|TR| TJK TV HDx
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF: 0,|TR| TJK TV HDextra
-https://raw.github.com/superdizayn/rd/main/euros.m3u8
+#EXTINF:-1,|TR| TJK TV HDxx
+http://tjktv.ercdn.net/tjktv.m3u8
