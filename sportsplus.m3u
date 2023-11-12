@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, -----beIN-----
+#-----beIN-----
 
 #EXTINF:-1,|TR| beIN Sports 1 SD [360p]
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/191154
@@ -35,7 +35,7 @@ http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6098
 #EXTINF:-1,|TR| beIN Sports 4 UHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/195813
 
-#EXTINF:-1, -----EXXEN-----
+#-----EXXEN-----
 
 #EXTINF:-1,|TR| Exxen Spor 1 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/167579
@@ -58,7 +58,7 @@ http://play.ssiptvglobal.xyz:8080/extreme/spor2023/101135
 #EXTINF:-1,|TR| Exxen Spor 8 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/101137
 
-#EXTINF:-1, -----SSPORT-----
+#-----SSPORT-----
 
 #EXTINF:-1,|TR| S Sport 1 HD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/115598
@@ -75,7 +75,7 @@ http://play.ssiptvglobal.xyz:8080/extreme/spor2023/137716
 #EXTINF:-1,|TR| S Sport+5 Mac Saati
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/137717
 
-#EXTINF:-1, -----TIVIBU-----
+#-----TIVIBU-----
 
 #EXTINF:-1,|TR| Tivibu Spor FHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/6101
@@ -88,7 +88,7 @@ http://play.ssiptvglobal.xyz:8080/extreme/spor2023/113254
 #EXTINF:-1,|TR| Tivibu Spor 4 FHD
 http://play.ssiptvglobal.xyz:8080/extreme/spor2023/115600
 
-#EXTINF:-1, -----EXTRA-----
+#-----EXTRA-----
 
 #EXTINF:-1,|TR| TJK TV HDx
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
