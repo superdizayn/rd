@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL SARMAL[DVR]",TR: TRT 1[DVR]
 https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL SARMAL[DVR]",TR: TRT 2[DVR]
-https://mn-nl.mncdn.com/blutv_trt2_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL SARMAL[DVR]",TR: STAR TV[DVR]
-https://startvdvr.blutv.com/blutv_startv_dvr2/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL SARMAL[DVR]",TR: SHOW TV[DVR]
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 
@@ -17,9 +11,6 @@ https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL SARMAL[DVR]",TR: BEYAZ TV[DVR]
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL SARMAL[DVR]",TR: DMAX[DVR]
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV100[DVR]" tvg-logo="" tvg-id2="ReDDom=" group-title="🇹🇷 ULUSAL SARMAL[DVR]",TR: TV100[DVR]
 https://mn-nl.mncdn.com/blutv_tv1002_dvr/live.m3u8
