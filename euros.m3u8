@@ -1,5 +1,2 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=2000000
-http://tjktv.ercdn.net/tjktv.m3u8
-#http://neuestv.com:80/play/live.php?mac=00:1A:79:80:CF:C4&stream=30956&extension=ts&play_token=SlOvbxha2m
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TJK TV HDx5" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tjk_tv.png" group-title="🇹🇷 SPOR ZAMANI",|TR| TJK TV HDx5
+https://github.com/superdizayn/rd/raw/main/euros.m3u8
