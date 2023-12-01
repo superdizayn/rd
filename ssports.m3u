@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="TR: FENERBAHCE TV" tvg-logo="" group-title="🇹🇷 SPOR",FENERBAHCE TV
 https://livetv.ssportplus.com/fbtv/index.mpd?hdnts=exp=1701442750~acl=/*~hmac=f6edf5f19dac114e575927883681cdcb29b039e01fc6492bc36572d74a2d497b
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="" group-title="🇹🇷 SPOR",TRT SPOR
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="" group-title="🇹🇷 TRTSPOR",TRT SPOR
 https://livetv.ssportplus.com/trtspor/index.mpd?hdnts=exp=1701442750~acl=/*~hmac=f6edf5f19dac114e575927883681cdcb29b039e01fc6492bc36572d74a2d497b
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="🇹🇷 SPOR",TRT SPOR YILDIZ
