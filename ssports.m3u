@@ -8,3 +8,6 @@ https://livetv.ssportplus.com/trtspor/index.mpd?hdnts=exp=1701442750~acl=/*~hmac
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="🇹🇷 SPOR",TRT SPOR YILDIZ
 https://livetv.ssportplus.com/trtsporyildiz/index.mpd?hdnts=exp=1701442750~acl=/*~hmac=f6edf5f19dac114e575927883681cdcb29b039e01fc6492bc36572d74a2d497b
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO SPOR" tvg-logo="" group-title="🇹🇷 SPOR",RADYO SPOR
+https://cdn.ssportplus.com/69/3165/5RC8ZM3jpfs1/5RC8ZM3jpfs1.mpd?hdnts=exp=1701445132~acl=/*~hmac=961b2d328981fb1452435e77523c6d139629adde1b5173863afbb055cea5e700
