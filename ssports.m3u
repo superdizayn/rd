@@ -11,3 +11,24 @@ https://livetv.ssportplus.com/trtsporyildiz/index.mpd?hdnts=exp=1701442750~acl=/
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: RADYO SPOR" tvg-logo="" group-title="🇹🇷 SPOR",RADYO SPOR
 https://cdn.ssportplus.com/69/3165/5RC8ZM3jpfs1/5RC8ZM3jpfs1.mpd?hdnts=exp=1701445132~acl=/*~hmac=961b2d328981fb1452435e77523c6d139629adde1b5173863afbb055cea5e700
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,AUDIO="URI"
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_19.m3u8
+###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,AUDIO="URI"
+##https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
+
+
+##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=14590&extension=m3u8&play_token=msUKooUfNl
+##http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/14590.m3u8
+
+###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
+###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/01.m3u8
+###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+###http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
