@@ -12,6 +12,10 @@ https://livetv.ssportplus.com/trtsporyildiz/index.mpd?hdnts=exp=1701442750~acl=/
 #EXTINF:-1 tvg-id="" tvg-name="TR: RADYO SPOR" tvg-logo="" group-title="🇹🇷 SPOR",RADYO SPOR
 https://cdn.ssportplus.com/69/3165/5RC8ZM3jpfs1/5RC8ZM3jpfs1.mpd?hdnts=exp=1701445132~acl=/*~hmac=961b2d328981fb1452435e77523c6d139629adde1b5173863afbb055cea5e700
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: MTV MUSIC" tvg-logo="" group-title="🇹🇷 SPOR",MTV MUSIC
+https://dt-mtv00s-hls.mncdn.com/digiturk_mtv00s_hls/bc/mtv00s/mtv00s.isml/web.m3u8?st=a2x3Er3fI7ZrffetDBFxHw&e=1701943284&userid=md64037951
+
+
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_11_0.m3u8"
