@@ -84,3 +84,6 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: MTV" tvg-logo="" group-title="🇹🇷 MUSIC",MTV MUSIC
+https://dt-mtv00s-hls.mncdn.com/digiturk_mtv00s_hls/bc/mtv00s/mtv00s.isml/web.m3u8?st=a2x3Er3fI7ZrffetDBFxHw&e=1701943284&userid=md64037951
