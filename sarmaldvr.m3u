@@ -18,12 +18,6 @@ https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV-A" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-A
 https://c.fulltvizle.com/aytv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-B
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-C
-http://gineu8.bozztv.com/gin-36bay2/gin-atvv/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="" group-title="🇹🇷 ULUSAL",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
@@ -52,17 +46,11 @@ https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8-SSP" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8-SSP
-https://livetv.ssportplus.com/tv8/index.mpd?hdnts=exp=1696633802~acl=/*~hmac=f6edf5f19dac114e575927883681cdcb29b039e01fc6492bc36572d74a2d497b
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5-A" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8.5-A
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8.5-B
 http://116.202.238.88/TV8.5_TR/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5-SSP" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8.5-SSP
-https://livetv.ssportplus.com/tv8bucuk/index.mpd?hdnts=exp=1696633802~acl=/*~hmac=f6edf5f19dac114e575927883681cdcb29b039e01fc6492bc36572d74a2d497b
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
@@ -84,9 +72,3 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: MTV" tvg-logo="" group-title="🇹🇷 MUSIC",MTV MUSIC
-https://dt-mtv00s-hls.mncdn.com/digiturk_mtv00s_hls/bc/mtv00s/mtv00s.isml/web.m3u8?st=a2x3Er3fI7ZrffetDBFxHw&e=1701943284&userid=md64037951
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: English" tvg-logo="" group-title="🇹🇷 MUSIC",English
-https://live6pop03.kablowebtv.com/Live/HLS/2012/2500.m3u8|cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045
