@@ -9,14 +9,32 @@ https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1B
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1C
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1D" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1D
+http://hw1.jemtv.com/app/trt1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1E" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1E
+https://canlitvulusal.xyz/live/trt1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 2-DVR
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 
+EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 2-B
+http://hw1.jemtv.com/app/trt2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV-A" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-A
 https://c.fulltvizle.com/aytv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-B
+http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-Europe" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-Europe
+https://bozztv.com/inim03/live1/atvavrupa/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="" group-title="🇹🇷 ULUSAL",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
