@@ -92,3 +92,5 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
 http://185.224.217.9:2052/live/448541210370/2saS1KQiWT/138135.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="TR: National" tvg-logo="" group-title="🇹🇷 ULUSAL",National
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57741&extension=ts
