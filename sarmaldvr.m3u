@@ -97,3 +97,6 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57741&ext
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILBOX" tvg-logo="" group-title="🇹🇷 ULUSAL",FILBOX
 http://laurakaren.serv00.net/BOX.php?HLS=1
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILBOX2" tvg-logo="" group-title="🇹🇷 ULUSAL",FILBOX2
+http://65.108.239.207:8080/stream/turkcell/eurosport1hd/master.m3u8?token=dLZXS4PwwaoSqzTfOO84zg&tms=1717158639
