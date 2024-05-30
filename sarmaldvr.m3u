@@ -100,3 +100,8 @@ http://laurakaren.serv00.net/BOX.php?HLS=1
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILBOX2" tvg-logo="" group-title="🇹🇷 ULUSAL",FILBOX2
 http://65.108.239.207:8080/stream/turkcell/eurosport1hd/master.m3u8?token=dLZXS4PwwaoSqzTfOO84zg&tms=1717158639
+		
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILBOX3" tvg-logo="" group-title="🇹🇷 ULUSAL",FILBOX3
+#EXTVLCOPT:http-user-agent=touchTV (Android) ExoPlayerLib/2.14.2	
+http://laurakaren.serv00.net/Touch.php?HLS=stv1
