@@ -80,16 +80,15 @@ https://showturk.blutv.com/blutv_showturk2/live.m3u8
 https://c.fulltvizle.com/a2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Mac" tvg-logo="" group-title="🇹🇷 Spor",Exxen Mac
-https://exxen-live.ercdn.net/exxentv/exxentv_mobil.m3u8?st=LNFQvAtrpcZIIgSc9MBH5A&e=1722637947&uid=6858068989680418923&sid=wAG7wvECLi2KZA&userid=ed3236726&reqid=a2a4faf51488f37bb5e3ee88640758bf
-
+https://exxen-live.ercdn.net/exxentv/exxentv_mobil.m3u8?st=e5Y9e23mC2eczUCFrF8DBQ&e=1722696491&uid=6858068989680418923&sid=dQF8xvECNjSaFw&userid=ed3236726&reqid=18d2920ccea3dbe743c778fa82d2ba17
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV4" tvg-logo="" group-title="🇹🇷 ULUSAL",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema1" tvg-logo="" group-title="🇹🇷 ULUSAL",Sinema1x
-80/Live/HLS/4060/2500.m3u8|cookie:ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m;emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc;eSessionId=0
+#EXTINF:-1 tvg-id="" tvg-name="TR: exxen2" tvg-logo="" group-title="🇹🇷 ULUSAL",Sinema1x
+https://exxen-live.ercdn.net/exxentv/exxentv_720p.m3u8?st=e5Y9e23mC2eczUCFrF8DBQ&e=1722696491&uid=6858068989680418923&sid=dQF8xvECNjSaFw&userid=ed3236726&reqid=18d2920ccea3dbe743c778fa82d2ba17
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: National" tvg-logo="" group-title="🇹🇷 ULUSAL",National
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57741&extension=ts
