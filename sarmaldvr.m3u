@@ -34,7 +34,7 @@ https://bozztv.com/inim03/live1/atvavrupa/chunks.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV-SSP" tvg-logo="" group-title="🇹🇷 ULUSAL",STAR TV-SSP
-https://livetv.ssportplus.com/startv/index.mpd?hdnts=exp=1696633802~acl=/*~hmac=f6edf5f19dac114e575927883681cdcb29b039e01fc6492bc36572d74a2d497b
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV" tvg-logo="" group-title="🇹🇷 ULUSAL",SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
@@ -88,7 +88,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: exxen2" tvg-logo="" group-title="🇹🇷 ULUSAL",Sinema1x
-https://exxen-live.ercdn.net/exxentv/exxentv_720p.m3u8?st=e5Y9e23mC2eczUCFrF8DBQ&e=1722696491&uid=6858068989680418923&sid=dQF8xvECNjSaFw&userid=ed3236726&reqid=18d2920ccea3dbe743c778fa82d2ba17
+https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: National" tvg-logo="" group-title="🇹🇷 ULUSAL",National
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57741&extension=ts
