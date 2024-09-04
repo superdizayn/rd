@@ -68,7 +68,7 @@ http://116.202.238.88/TV8.5_TR/index.m3u8
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7-DVR
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+https://maxproabi.ydns.eu/http://80.79.5.64:25461/live/ePEjXg7Czz/JvurwWmCLf/1260.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 EUROPE" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7 EUROPE
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
