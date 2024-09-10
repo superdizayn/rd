@@ -87,8 +87,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: exxen2" tvg-logo="" group-title="🇹🇷 ULUSAL",Sinema1x
-https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tv8" tvg-logo="" group-title="🇹🇷 ULUSAL",Tv8
+https://saran-live.ercdn.net/tv8/index.mpd?st=cmd6izJf8EEJO22yoUQwVw&e=1726014676
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: blutv1" tvg-logo="" group-title="🇹🇷 ULUSAL",Blutv1
 https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
