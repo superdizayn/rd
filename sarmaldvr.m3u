@@ -90,5 +90,5 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tv8" tvg-logo="" group-title="🇹🇷 ULUSAL",Tv8
 https://saran-live.ercdn.net/tv8/index.mpd?st=cmd6izJf8EEJO22yoUQwVw&e=1726014676
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: blutv1" tvg-logo="" group-title="🇹🇷 ULUSAL",Blutv1
-https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beingurme" tvg-logo="" group-title="🇹🇷 ULUSAL",Beingurme
+https://calmaserefsiz.serv00.net/live/beingurme.php/index.m3u8
