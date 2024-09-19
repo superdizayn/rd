@@ -67,14 +67,14 @@ http://116.202.238.88/TV8.5_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7-DVR
-https://maxproabi.ydns.eu/http://80.79.5.64:25461/live/ePEjXg7Czz/JvurwWmCLf/1260.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: epej-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",epej-DVR
+http://80.79.5.64:25461/live/ePEjXg7Czz/JvurwWmCLf/1260.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 EUROPE" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7 EUROPE
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" tvg-logo="" group-title="🇹🇷 ULUSAL",SHOW TURK
-https://maxpro.net.tr/live/bein1hd.php/|X-Special-Header=calmaserefsiz&X-Requested-With=com.maxpro.tv&X-Samet-TR=sesdeneme123&MAXPRO=yavsaginondegideni&cookie=ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m;emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc;eSessionId=0&user-agent=gotunegirsinuseragent
+https://maxpro.net.tr/live/bein1hd.phx/|X-Special-Header=calmaserefsiz&X-Requested-With=com.maxpro.tv&X-Samet-TR=sesdeneme123&MAXPRO=yavsaginondegideni&cookie=ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m;emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc;eSessionId=0&user-agent=gotunegirsinuseragent
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="🇹🇷 ULUSAL",A2
 https://c.fulltvizle.com/a2/index.m3u8
@@ -87,8 +87,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tv8" tvg-logo="" group-title="🇹🇷 ULUSAL",Tv8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
 https://gXh8UAvslIiLiwOXdgfPAg.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: beingurme" tvg-logo="" group-title="🇹🇷 ULUSAL",Beingurme
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabiwprmer" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabiisprker
 https://wispy-sun-c804.rectv1456.workers.dev/live/tabi1/index.m3u8
