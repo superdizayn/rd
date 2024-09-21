@@ -11,3 +11,7 @@ https://orange-forest-36c6.rectv1458.workers.dev/live/bs11/index.m3u8
 https://jyayintv61.site/cdn/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/7xx0vlv.png", Bein SPOR 2 RecTv
 http://185.6.13.2:8080/live/@mouilha20/qC5NvocxTLQAObk70jypOxFiWzo7Pg/535.ts?token=QhNcUUpYElsXCQQCUw4CXFRVVldUCQ0IVgdSVwICB1QKBAwDDARUUlcbH0QXTEEBAgttXVQTDwVSUxoQQkNVFmZYUBIDEgFUAA8RSkZMWgkGRAgFBwMDCVJRBwQEHBIUUFUWChsDBFQFCRFKRl1LEAYUXFVcblFVFw9VVxUKXhFVXRgSVl5vBVBUUggAGglGU0QeFllCRRJbRHBbVVldRH9YVlVLXlUVFX5gK0RrUgoCH1sUZnQVZAgFV0BSRBAlV15aWVQQYwhHUlYSDRofRgEPRkZRRVASW0QEAQEHEkgbUltFV0RCGBcDETI2Gh9GBh5GUV5CXF8PRAwQQ0MSSBtYR29LVUMVR1xSCwFKEV5BVxAYElxUSD4FWVxZVVMQUF5aQxsKElAFCRFKRlVcCgoSXUZvQVxUQ1wUAw4JAVAbTA==
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="DeaTHLesS",TR: beIN Sport 1 HD
+https://cors-header-proxy.nnyan.workers.dev/?https://tayland.canlimachd10.site/hls/tabii1.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TR" tvg-name="TR: beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="DeaTHLesS",TR: beIN Sport 1 HD
+https://jyayintv64.site/cdn/bein_sports_1_hd/main.m3u8
