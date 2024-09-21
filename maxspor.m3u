@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/aslanzp.png", Bein SPOR 1 HD
 https://turkiye.ydns.eu/beinsports/beinsports1maczamani.php/index.m3u8|X-Special-Header=calmaserefsiz&X-Requested-With=com.maxpro.tv&X-Samet-TR=sesdeneme123&MAXPRO=yavsaginondegideni&cookie=ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m;emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc;eSessionId=0&user-agent=gotunegirsinuseragent
-#EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/f4ygkka.png", Bein SPOR HD
-https://due.b2bc8ef2ce55b97a.shop/p/macizlevip6402.shop/601/c.cf-worker-46b18ae2e97a989c.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/7xx0vlv.png", Bein SPOR 2 HD
-https://due.b2bc8ef2ce55b97a.shop/p/macizlevip6402.shop/602/c.cf-worker-46b18ae2e97a989c.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/f4ygkka.png", Bein SPOR 1HD
+https://cool-lab-1e9d.rectv1457.workers.dev/live/bs1/index.m3u8
+#EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/7xx0vlv.png", Bein SPOR f HD
+https://cool-lab-1e9d.rectv1457.workers.dev/live/bs11/index.m3u8
 #EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/7xx0vlv.png", Bein SPOR RecTv
 https://tv.anystreamrectv18.xyz/live/bs11/index.m3u8
 #EXTINF:-1 group-title="CANLI" tvg-logo="https://i.hizliresim.com/7xx0vlv.png", Bein SPOR RecSd
