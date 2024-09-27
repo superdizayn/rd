@@ -40,7 +40,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",SHOW TV-DVR
-https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D-A" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL D-A
@@ -78,12 +78,10 @@ https://maxpro.net.tr/live/bein1hd.phx/|X-Special-Header=calmaserefsiz&X-Request
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="🇹🇷 ULUSAL",A2
 https://c.fulltvizle.com/a2/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Mac" tvg-logo="" group-title="🇹🇷 Spor",Exxen Mac
 http://super.x5000.net:8080/live/androidfca47aa4f/ja0WbrdMww/9.ts|user-agent=WİPTVPlayer
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV4" tvg-logo="" group-title="🇹🇷 ULUSAL",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
