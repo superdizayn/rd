@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:4
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-96",LANGUAGE="tr",NAME="Turkish",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=812000,AVERAGE-BANDWIDTH=738000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=640x360,FRAME-RATE=25,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
+https://bilmemmi.store/dsgo/dsmart.php?v=https%3A%2F%2Fdsmartgo-live.ercdn.net%2Fdsmartgo%2Ftrt1%2Ftrt1.isml%2Ftrt1-audio_tur%3D96000-video%3D600000.m3u8%3Fst%3DQ-F7qR2YS088Ybi3Fx3yRg%26e%3D1730945947%26uid%3D60459952%26sid%3DwgHXrvMCBmybHw%26pua%3D1%26userid%3Ded431702%26reqid%3D96d79c6fa827a19ea0afc0eb1e510a5c%26tmode%3D1
+#EXT-X-STREAM-INF:BANDWIDTH=1861000,AVERAGE-BANDWIDTH=1692000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
+https://bilmemmi.store/dsgo/dsmart.php?v=https%3A%2F%2Fdsmartgo-live.ercdn.net%2Fdsmartgo%2Ftrt1%2Ftrt1.isml%2Ftrt1-audio_tur%3D96000-video%3D1500000.m3u8%3Fst%3DQ-F7qR2YS088Ybi3Fx3yRg%26e%3D1730945947%26uid%3D60459952%26sid%3DwgHXrvMCBmybHw%26pua%3D1%26userid%3Ded431702%26reqid%3D96d79c6fa827a19ea0afc0eb1e510a5c%26tmode%3D1
+#EXT-X-STREAM-INF:BANDWIDTH=3610000,AVERAGE-BANDWIDTH=3282000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1920x1080,FRAME-RATE=25,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
+https://bilmemmi.store/dsgo/dsmart.php?v=https%3A%2F%2Fdsmartgo-live.ercdn.net%2Fdsmartgo%2Ftrt1%2Ftrt1.isml%2Ftrt1-audio_tur%3D96000-video%3D3000000.m3u8%3Fst%3DQ-F7qR2YS088Ybi3Fx3yRg%26e%3D1730945947%26uid%3D60459952%26sid%3DwgHXrvMCBmybHw%26pua%3D1%26userid%3Ded431702%26reqid%3D96d79c6fa827a19ea0afc0eb1e510a5c%26tmode%3D1
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=112000,AVERAGE-BANDWIDTH=102000,CODECS="mp4a.40.2",AUDIO="audio-aacl-96"
+https://bilmemmi.store/dsgo/dsmart.php?v=https%3A%2F%2Fdsmartgo-live.ercdn.net%2Fdsmartgo%2Ftrt1%2Ftrt1.isml%2Ftrt1-audio_tur%3D96000.m3u8%3Fst%3DQ-F7qR2YS088Ybi3Fx3yRg%26e%3D1730945947%26uid%3D60459952%26sid%3DwgHXrvMCBmybHw%26pua%3D1%26userid%3Ded431702%26reqid%3D96d79c6fa827a19ea0afc0eb1e510a5c%26tmode%3D1
+
+# keyframes
+https://bilmemmi.store/dsgo/dsmart.php?v=https%3A%2F%2Fdsmartgo-live.ercdn.net%2Fdsmartgo%2Ftrt1%2Ftrt1.isml%2F%23EXT-X-I-FRAME-STREAM-INF%3ABANDWIDTH%3D88000%2CCODECS%3D%22avc1.4D401F%22%2CRESOLUTION%3D640x360%2CURI%3D%22keyframes%2Ftrt1-video%3D600000.m3u8%3Fst%3DQ-F7qR2YS088Ybi3Fx3yRg%26e%3D1730945947%26uid%3D60459952%26sid%3DwgHXrvMCBmybHw%26pua%3D1%26userid%3Ded431702%26reqid%3D96d79c6fa827a19ea0afc0eb1e510a5c%26tmode%3D1%22
+https://bilmemmi.store/dsgo/dsmart.php?v=https%3A%2F%2Fdsmartgo-live.ercdn.net%2Fdsmartgo%2Ftrt1%2Ftrt1.isml%2F%23EXT-X-I-FRAME-STREAM-INF%3ABANDWIDTH%3D219000%2CCODECS%3D%22avc1.4D401F%22%2CRESOLUTION%3D1280x720%2CURI%3D%22keyframes%2Ftrt1-video%3D1500000.m3u8%3Fst%3DQ-F7qR2YS088Ybi3Fx3yRg%26e%3D1730945947%26uid%3D60459952%26sid%3DwgHXrvMCBmybHw%26pua%3D1%26userid%3Ded431702%26reqid%3D96d79c6fa827a19ea0afc0eb1e510a5c%26tmode%3D1%22
+https://bilmemmi.store/dsgo/dsmart.php?v=https%3A%2F%2Fdsmartgo-live.ercdn.net%2Fdsmartgo%2Ftrt1%2Ftrt1.isml%2F%23EXT-X-I-FRAME-STREAM-INF%3ABANDWIDTH%3D438000%2CCODECS%3D%22avc1.640029%22%2CRESOLUTION%3D1920x1080%2CURI%3D%22keyframes%2Ftrt1-video%3D3000000.m3u8%3Fst%3DQ-F7qR2YS088Ybi3Fx3yRg%26e%3D1730945947%26uid%3D60459952%26sid%3DwgHXrvMCBmybHw%26pua%3D1%26userid%3Ded431702%26reqid%3D96d79c6fa827a19ea0afc0eb1e510a5c%26tmode%3D1%22
