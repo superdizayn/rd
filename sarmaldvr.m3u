@@ -28,7 +28,7 @@ https://c.fulltvizle.com/aytv/index.m3u8
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV-Europe" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-Europe
-https://bozztv.com/inim03/live1/atvavrupa/chunks.m3u8
+https://raw.githubusercontent.com/superdizayn/rd/refs/heads/main/dsm.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="" group-title="🇹🇷 ULUSAL",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
