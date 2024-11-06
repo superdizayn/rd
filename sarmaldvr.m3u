@@ -56,7 +56,7 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_web&ce=3
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5-A" tvg-logo="" group-title="🇹🇷 ULUSAL",TV8.5-A
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
