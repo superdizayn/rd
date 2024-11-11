@@ -83,7 +83,7 @@ http://super.x5000.net:8080/live/androidfca47aa4f/ja0WbrdMww/9.ts|user-agent=Wİ
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV4" tvg-logo="" group-title="🇹🇷 ULUSAL",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
 https://tinyurl.com/87cme5u8/607/index.m3u8
