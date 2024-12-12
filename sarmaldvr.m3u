@@ -9,10 +9,13 @@ http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1D" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1D
 https://bilmemmi.store/dsgo/dsmart.php/index.m3u8?11887
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
+https://rapid-wave-c8e3.redfor14314.workers.dev/https://love2live.wideiptv.top/beINSPORTS1TR/index.fmp4.m3u8?token=b3d01593132a85259bb049e3c9108e67980c0ced-c0f6148748ccd3a0d219a611f86a35fe-1733984195-1733973395&remote=no_check_ip
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein2" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein2
 https://rapid-wave-c8e3.redfor14314.workers.dev/https://love2live.wideiptv.top/beINSPORTS2TR/index.fmp4.m3u8?token=dc3d1e508e05ac471296b01e7a6738dfc0d59509-1d68c2ac80023068bfc1eb655315662d-1733984384-1733973584&remote=no_check_ip
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein2" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
 https://rapid-wave-c8e3.redfor14314.workers.dev/https://love2live.wideiptv.top/beINSPORTS3TR/index.fmp4.m3u8?token=ac1645bc181b331215a2413e9766a90754c5bdb3-54b4e43ea892d0b9d721f2641744da60-1733984640-1733973840&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: euro1" tvg-logo="" group-title="🇹🇷 ULUSAL",Eurosport 1
@@ -97,5 +100,4 @@ http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
 https://SFTVrkiJ6Gb1UvNIrPbo8cSGY.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: tabiwprmer" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabiisprker
-https://rapid-wave-c8e3.redfor14314.workers.dev/https://love2live.wideiptv.top/beINSPORTS1TR/index.fmp4.m3u8?token=b3d01593132a85259bb049e3c9108e67980c0ced-c0f6148748ccd3a0d219a611f86a35fe-1733984195-1733973395&remote=no_check_ip
+
