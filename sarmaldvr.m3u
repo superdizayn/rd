@@ -10,7 +10,7 @@ http://stream.tvcdn.net/ulusal/trt-1.m3u8
 https://kirca.com/fox.php
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
-https://rapid-wave-c8e3.redfor14314.workers.dev/https://love2live.wideiptv.top/beINSPORTS1TR/index.fmp4.m3u8?token=b3d01593132a85259bb049e3c9108e67980c0ced-c0f6148748ccd3a0d219a611f86a35fe-1733984195-1733973395&remote=no_check_ip
+https://kirca.com/sportsmac.php?ID=bein/159
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein2" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein2
 https://kirca.com/sportsmac.php?ID=bein/159
