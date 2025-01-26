@@ -12,8 +12,11 @@ https://kirca.com/fox.php
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
 https://hizlisunucum.info/yayin2tv.php/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 extra" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
-http://buhavadagidilmez.duckdns.org:7701/xtvozel/iyiseyirler/tv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 extra" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Extra
+http://buhavadagidilmez.duckdns.org:7701/xtvozel/iyiseyirler/extra/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 extra+" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Extra+
+http://buhavadagidilmez.duckdns.org:7701/xtvozel/iyiseyirler/bs1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
 https://hizlisunucum.info/yayin3tv.php/index.m3u8
