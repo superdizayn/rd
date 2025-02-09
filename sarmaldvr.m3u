@@ -19,8 +19,8 @@ https://hizlisunucum.info/yayin2tv.php/index.m3u8
 http://buhavadagidilmez.duckdns.org:7701/xtvozel/iyiseyirler/streamontvx/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 extra+" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Extra+
-http://buhavadagidilmez.duckdns.org:7701/xtvozel/iyiseyirler/bs1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ahaber extra+" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 ahaber+
+https://tvxx.duckdns.org/dsgo/ahaber.m3u8?username=xtv&password=VGv7cubAqjm5My0Y
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1 extra 4k" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Extra 4k
 http://buhavadagidilmez.duckdns.org:7701/xtvozel/iyiseyirler/tv1/index.m3u8
