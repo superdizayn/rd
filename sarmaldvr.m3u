@@ -15,8 +15,8 @@ https://kirca.com/fox.php
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
 https://hizlisunucum.info/yayin2tv.php/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 extra" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Extra
-http://buhavadagidilmez.duckdns.org:7701/xtvozel/iyiseyirler/streamontvx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",HT Spor
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ahaber extra+" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 ahaber+
