@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+/dsgo/dsgo-streams/fightbox-stream.m3u8?url=https://dsmartgo-live.ercdn.net/fightbox/fightbox_1080p.m3u8?st=h1YKMqjBkciNR_6qdV9PRA%26e=1739273288%26uid=7201606843897553358%26sid=mQDtovUCDhAKFQ%26userid=ed636866%26reqid=59af9ee29ee19624820bfbb8db9743c4%26tmode=1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+/dsgo/dsgo-streams/fightbox-stream.m3u8?url=https://dsmartgo-live.ercdn.net/fightbox/fightbox_720p.m3u8?st=h1YKMqjBkciNR_6qdV9PRA%26e=1739273288%26uid=7201606843897553358%26sid=mQDtovUCDhAKFQ%26userid=ed636866%26reqid=59af9ee29ee19624820bfbb8db9743c4%26tmode=1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
+/dsgo/dsgo-streams/fightbox-stream.m3u8?url=https://dsmartgo-live.ercdn.net/fightbox/fightbox_360p.m3u8?st=h1YKMqjBkciNR_6qdV9PRA%26e=1739273288%26uid=7201606843897553358%26sid=mQDtovUCDhAKFQ%26userid=ed636866%26reqid=59af9ee29ee19624820bfbb8db9743c4%26tmode=1
