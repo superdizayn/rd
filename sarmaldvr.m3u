@@ -22,8 +22,8 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ahaber extra+" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 ahaber+
 https://tvxx.duckdns.org/dsgo/ahaber.m3u8?username=xtv&password=VGv7cubAqjm5My0Y
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 extra 4k" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Extra 4k
-https://xprovavo.gleeze.com/cdn/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDk0NjYxOTEzNjRiMjRkOWU2OGQ=
+#EXTINF:-1 tvg-id="" tvg-name="TR: Frida" tvg-logo="" group-title="🇹🇷 ULUSAL",Frida Film
+https://load.rectv2024live.com/hls/10/cdn32/6175710f129b9027c7bb502c51cfc8aa17108614447.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
 https://hizlisunucum.info/yayin3tv.php/index.m3u8
