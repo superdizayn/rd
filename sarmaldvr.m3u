@@ -9,8 +9,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1C
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cosmo" tvg-logo="" group-title="🇹🇷 ULUSAL",Cosmo
-https://tvxx.duckdns.org//dsgo/dsgo-streams/fightbox-stream.m3u8?url=https://dsmartgo-live.ercdn.net/fightbox/fightbox_1080p.m3u8?st=h1YKMqjBkciNR_6qdV9PRA%26e=1739273288%26uid=7201606843897553358%26sid=mQDtovUCDhAKFQ%26userid=ed636866%26reqid=59af9ee29ee19624820bfbb8db9743c4%26tmode=1
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein" tvg-logo="" group-title="🇹🇷 ULUSAL",BeinT
+https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
 https://hizlisunucum.info/yayin2tv.php/index.m3u8
@@ -19,8 +19,8 @@ https://hizlisunucum.info/yayin2tv.php/index.m3u8
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Ahaber extra+" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 ahaber+
-https://tvxx.duckdns.org/dsgo/ahaber.m3u8?username=xtv&password=VGv7cubAqjm5My0Y
+#EXTINF:-1 tvg-id="" tvg-name="TR: B Ref" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Ref
+https://t6co.ragigacc100xk.workers.dev/list/yayinnbatv.m3u8|referer=https://hayrihayrixhayirli7.cfd/
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Frida" tvg-logo="" group-title="🇹🇷 ULUSAL",Frida Film
 https://load.rectv2024live.com/hls/10/cdn32/6175710f129b9027c7bb502c51cfc8aa17108614447.mp4/index.m3u8
