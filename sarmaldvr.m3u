@@ -9,15 +9,19 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 1C
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",HT Spor
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein" tvg-logo="" group-title="🇹🇷 ULUSAL",BeinT
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 YD
 https://mobil.92test.cfd/yayint24.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: HT Spor" tvg-logo="" group-title="🇹🇷 ULUSAL",HT Spor
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
+https://sette.e3469f3c904691fb.click/i/izlemac6367.sbs/172/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: B Ref" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Lex
 https://cdn2.lexter1.com/stream/431081.m3u8
@@ -27,6 +31,10 @@ https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
 https://hizlisunucum.info/yayin3tv.php/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: tabii1" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
@@ -123,16 +131,8 @@ https://cdn.ssportplus.com/68/3165/TRXAd74M2fn9/TRXAd74M2fn9.mpd?hdnts=exp=17285
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="🇹🇷 ULUSAL",A2
 https://c.fulltvizle.com/a2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1
-https://sette.e3469f3c904691fb.click/i/izlemac6367.sbs/172/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV4" tvg-logo="" group-title="🇹🇷 ULUSAL",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
-https://SFTVrkiJ6Gb1UvNIrPbo8cSGY.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-
