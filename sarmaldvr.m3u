@@ -27,8 +27,26 @@ https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
 https://hizlisunucum.info/yayin3tv.php/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein 1 Fan
-http://fantv.duckdns.org:25461/live/FanTV/fantv/27.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii1" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii2" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii3" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii4" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii5" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii6" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ssport 1" tvg-logo="" group-title="🇹🇷 ULUSAL", Ssport 1
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
