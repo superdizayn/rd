@@ -33,6 +33,10 @@ https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
 https://hizlisunucum.info/yayin3tv.php/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii avrupa" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii Avrupa
+https://proxy.maxpanel.com.tr/https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: tabii" tvg-logo="" group-title="🇹🇷 ULUSAL",Tabii
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
