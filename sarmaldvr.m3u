@@ -74,14 +74,9 @@ https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/64
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 2-DVR
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT 2-B
-http://hw1.jemtv.com/app/trt2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV-A" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-A
 https://c.fulltvizle.com/aytv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-B
-http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV-C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-C
@@ -99,7 +94,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV" tvg-logo="" group-title="🇹🇷 ULUSAL",SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",SHOW TV-DVR
+#EXTINF:-1 tvg-id="" tvg-name="TR: Blu1" tvg-logo="" group-title="🇹🇷 ULUSAL",Blutv1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/index.m3u8
 
 
@@ -107,7 +102,7 @@ https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/index.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D-B" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL D-B
-https://c.fulltvizle.com/kanald/tracks-v1a1/mono.m3u8?token=ca38a672241eede48c996eefc6bf8b30f7b0a718-189cb49034014d54305f1962555712cb-1675328621-1675317821
+https://c.fulltvizle.com/kanald/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV" tvg-logo="" group-title="🇹🇷 ULUSAL",FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
@@ -127,14 +122,10 @@ http://116.202.238.88/TV8.5_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: epej-DVR" tvg-logo="" group-title="🇹🇷 ULUSAL",epej-DVR
-http://80.79.5.64:25461/live/ePEjXg7Czz/JvurwWmCLf/1260.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 EUROPE" tvg-logo="" group-title="🇹🇷 ULUSAL",KANAL 7 EUROPE
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" tvg-logo="" group-title="🇹🇷 ULUSAL",SHOW TURK
-https://cdn.ssportplus.com/68/3165/TRXAd74M2fn9/TRXAd74M2fn9.mpd?hdnts=exp=1728508449~acl=/*~hmac=6a0c7fec7cf9befdb5eea20db506fd4674c1ffb801dc278e805ee27d83eef299
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="🇹🇷 ULUSAL",A2
 https://c.fulltvizle.com/a2/index.m3u8
