@@ -83,6 +83,10 @@ https://c.fulltvizle.com/aytv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV-B" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-B
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV-C" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-C
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV-Europe" tvg-logo="" group-title="🇹🇷 ULUSAL",TRT ATV-Europe
 https://raw.githubusercontent.com/superdizayn/rd/refs/heads/main/dsm.m3u8
 
