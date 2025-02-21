@@ -32,8 +32,8 @@ http://154.6.184.27:80/UL33K17/SYC4T9D/49352
 http://154.6.184.27:80/UL33K17/SYC4T9D/39559
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein" tvg-logo="" group-title="🇹🇷 ULUSAL",BeinT
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Rec" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Rec
+https://patient-math-5c86.1ff0569977844459805.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 YD
 https://mobil.92test.cfd/yayint24.m3u8
