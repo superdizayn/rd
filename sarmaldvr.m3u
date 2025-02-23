@@ -30,6 +30,7 @@ https://r11.1ff05699778444598012.workers.dev/list/yayinstar.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1 rec" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rb
+
 https://r11.1ff05699778444598012.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1 Bd" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 BD uhd
@@ -157,6 +158,27 @@ https://c.fulltvizle.com/a2/index.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2" tvg-logo="" group-title="🇹🇷 ULUSAL",TEVE2
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+
+
+#EXTINF:-1 group-title="🇹🇷Reddom💎" tvg-logo="https://i.ibb.co/RpWXrvp/launcher-icon.jpg" ,BEIN SPORTS 1 
+https://r11.1ff05699778444598012.workers.dev/static/bs1.m3u8
+
+#EXTINF:-1 group-title="Reddom💎" tvg-logo="https://i.ibb.co/RpWXrvp/launcher-icon.jpg" ,BEIN SPORTS 1 
+https://proxy.maxpanel.com.tr/https://plexpan.duckdns.org/xbyte.m3u8/?id=2113462398.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://i.ibb.co/RpWXrvp/launcher-icon.jpg" group-title="Reddom💎",BEIN SPORTS 1
+https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpWXrvp/launcher-icon.jpg" group-title="Reddom💎",beIN Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1187.xyz
+https://n0.b4c8d3e9f1a2b7c5d64.cfd/yayininat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpWXrvp/launcher-icon.jpg" group-title="Reddom💎",beIN Sports 1B
+#EXTVLCOPT:http-referrer=https://trgoals1187.xyz
+https://n0.b4c8d3e9f1a2b7c5d64.cfd/yayin1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="http://72register34.com/logos/beinhd.png" group-title="Reddom➾VPN",BeIN SPORTS 1 ʜᴅ
+#EXTVLCOPT:http-referrer=https://onwintv253.com/
+https://16mumdur.shop/701/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="##### NO - GENERAL #####" tvg-logo="http://go4.pw/FLAGS/flag_norway.png" group-title="EU | NORWAY",##### NO - GENERAL #####
 http://154.6.184.27:80/UL33K17/SYC4T9D/44324
