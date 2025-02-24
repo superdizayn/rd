@@ -24,14 +24,11 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1735
 https://n0.b4c8d3e9f1a2b7c5d64.cfd/yayininat.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Az
-https://a75.azplay.me/hls/streama231073/index.m3u8?cst=022d8a40293b19e93fe4c679eff5fa49
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Kop
 https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Vavoo
-https://proxy.maxpanel.com.tr/https://plexpan.duckdns.org/xbyte.m3u8/?id=2113462398.m3u8
+https://plexpan.duckdns.org/xbyte.m3u8/?id=2113462398.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1 rec" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rb
 https://r11.1ff05699778444598012.workers.dev/static/bs1.m3u8
