@@ -17,11 +17,17 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Reddom
-https://hypertv.duckdns.org:443/play/aQfbAcc3Z2dfTNYrKjqbQBqyjAmhu6X4N4ZrVfWlds8/ts
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Feed Ozel
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/ukja_jIepIIkBFvit_uyUOgem7aNgpEOGdo23sE87yByTAeC1RfJterQUb0Bdo51jlavEGFahazs4tY8ZpUw4U-FVepHhpGq7eLQD95ftGYFvADImOCPNNgtJN2c32RxPNSRfab8eNXSF53mG596TQpEl78cVfb9hFBSqlvXB2nHaUMGr673JVJQcsGi7gwWYoUvJqKb-2KN8LeA_5EgMC18JNeRKcCQJY2SuHJYbG0/hls/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 D
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/hYzGBdd3eWN2PuMIuZi9bFV8VIkTTtw_HSN5llyDb1R7QjJ85y3jYV7KNW4-DVEPPGtz9_KbEz7tDSMpYHUyuY-fkYLy8VC5IykKUWedQthVKT6_mPamhooIP7IeHuUV6eVfYiVg_hdxUBhYx2AvWv2jrHd7H-0ra-wrV6JxPmw_sTDUede8eZADLJdd9IHrhgPTpIUyYag0QMILCO11u-loHH1ccpqZE2HnA2YOwA8/hls/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 rec" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1+ D
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Kp2Ns5YuS4mcXzkaN6cCjVHULRPrxzSJ6Ckm2ZRg5nPoumkx-feSKuqrY9oq9DM6M92cG9IeekHBME9g61TdlCxUqm3OmAxvkpp86LM3pDPLrDzB6bkTfPzAgQOAoxAQsCZ3MvnatSGULmPYolw96jRvmMLJan1tTSIkNtpliMA3L39HcFAHV8dbjJg_Zzs6ykLlPzKzg9N-C1J6KCbH1k0I4Qk8R3F9bqUiamRZyx4/hls/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 E
@@ -29,6 +35,11 @@ https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/PNLVp5UJHpllyGT9oo
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1 tree" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Tree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1735
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Reddom
+https://hypertv.duckdns.org:443/play/aQfbAcc3Z2dfTNYrKjqbQBqyjAmhu6X4N4ZrVfWlds8/ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Yin
 #EXTVLCOPT:http-referrer=https://trgoals1187.xyz
@@ -40,9 +51,6 @@ https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Vavoo
 https://plexpan.duckdns.org/xbyte.m3u8/?id=2113462398.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 rec" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rb
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/zgr1Bj7oxxnJeQHCoctgcmYJgfP-g0l2esJTrSFDp1HUK-0OogpXPQUt2ZIHWp03QZu5-rN2asZbnabBt3we7yXXhjiuoQc04Ntq5GgWwHoUpTl7zFQR7RkkbKQQHe5ZzupRa-f3gF6zUxFdpZM7iAtJwpgWgYTzAc630JRSZ0RQWX5X6Eugeci2jGA1msdtDB4X9J1nQ8pQOdf02cxNNTUnrN0TArrDym_ggBohNBU/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1 Bd" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 BDuhd
 http://154.6.184.27:80/UL33K17/SYC4T9D/49352
