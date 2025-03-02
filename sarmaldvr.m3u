@@ -46,9 +46,6 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1735
 https://hypertv.duckdns.org:443/play/aQfbAcc3Z2dfTNYrKjqbQBqyjAmhu6X4N4ZrVfWlds8/ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Yin
-#EXTVLCOPT:http-referrer=https://trgoals1187.xyz
-https://n0.b4c8d3e9f1a2b7c5d64.cfd/yayininat.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rec
@@ -68,6 +65,14 @@ https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/hKrlKUzx6JFNp60Uvm
 https://cdn2.lexter1.com/stream/431081.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Yin
+#EXTVLCOPT:http-referrer=https://trgoals1187.xyz
+https://n0.b4c8d3e9f1a2b7c5d64.cfd/yayininat.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Landr
+#EXTVLCOPT:http-referrer=https://landortv3.live/
+https://0pp.raventv14.live/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
 https://hizlisunucum.info/yayin3tv.php/index.m3u8
