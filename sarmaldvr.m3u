@@ -29,6 +29,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 YD
+https://mobil.92test.cfd/yayint24.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Rec
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.1ff0569977873.workers.dev/static/bs1.m3u8
@@ -52,23 +57,17 @@ https://n0.b4c8d3e9f1a2b7c5d64.cfd/yayininat.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Kop
 https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
+#EXTINF:-1 tvg-id="" tvg-name="TR: Binat" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Inat
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Vav
 http://45.143.220.207:8008/sunshine/Yx6g88eO_GqbW_Ek6dwfHnk94Q9P2EjNI65rwAKW3DoWG-4by9bplsMpbZrGbhP_da58OpHgtKMTVxOCL-j0MMw0JvRqHgASx9hRXSwpc-lmMfE0MF2A96EBBLRRxbiQgwBl1r1AK0IKOMS9Cqe58w3QaMfZy4e8hUsm_wwQeBLtZVCPFMNPGoKxLROb8-8CQuU2NdWlIWv17L2LGEaCDZmIDYqiyenO8sGv5jOGE6A/hls/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Bzk" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Bzk
-http://nobuffer.dynu.net:8080/gecikmesiztv/545846876874465/468718
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 YD
-https://mobil.92test.cfd/yayint24.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: B lex" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Lex
 https://cdn2.lexter1.com/stream/431081.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Binat" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Inat
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein3" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein3
 https://hizlisunucum.info/yayin3tv.php/index.m3u8
