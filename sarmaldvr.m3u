@@ -56,12 +56,6 @@ https://koprulu1.global.ssl.fastly.net/app4/dady.m3u8/?id=62
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Vav
 http://45.143.220.207:8008/sunshine/Yx6g88eO_GqbW_Ek6dwfHnk94Q9P2EjNI65rwAKW3DoWG-4by9bplsMpbZrGbhP_da58OpHgtKMTVxOCL-j0MMw0JvRqHgASx9hRXSwpc-lmMfE0MF2A96EBBLRRxbiQgwBl1r1AK0IKOMS9Cqe58w3QaMfZy4e8hUsm_wwQeBLtZVCPFMNPGoKxLROb8-8CQuU2NdWlIWv17L2LGEaCDZmIDYqiyenO8sGv5jOGE6A/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 Bd" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 BDuhd
-http://154.6.184.27:80/UL33K17/SYC4T9D/49352
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1 Bd" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 BD hd
-http://154.6.184.27:80/UL33K17/SYC4T9D/39559
-
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Bzk" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Bzk
 http://nobuffer.dynu.net:8080/gecikmesiztv/545846876874465/468718
