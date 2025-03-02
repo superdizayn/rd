@@ -38,9 +38,8 @@ https://mobil.92test.cfd/yayint24.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.1ff0569977873.workers.dev/static/bs1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 RecStar
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://r14.1ff0569977873.workers.dev/list/yayinstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bein1" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein Buzz RecStar
+https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: bein1 tree" tvg-logo="" group-title="🇹🇷 ULUSAL",Bein1 Tree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1735
